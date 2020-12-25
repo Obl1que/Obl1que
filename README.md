@@ -1,6 +1,6 @@
-### Hey, I'm Obl1que!
+# Hey, I'm Obl1que! 👋 
 
-## Here is some of the stuff I use in my workflow etc.
+### Here is some of the stuff I use in my workflow etc.
 
 * IDE
    * I use VSCode for most things, but use IntelliJ CE for Java* I write code in:
@@ -23,11 +23,11 @@
    * chrome - webbrowser
    * homebrew - package manager
    
-## More about me
+### More about me
 
 [![Obl1que's github stats](https://github-readme-stats.vercel.app/api?username=Obl1que)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on various projects. Mainly a fivem server.
+- 🔭 I’m currently working on various projects.
 - 🌱 I’m currently learning node.js
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You can change the cursor blinking style in VSCode in settings -> text editor -> cursor
