@@ -1,5 +1,7 @@
 # Hey, I'm Obl1que! 👋 
 
+I like rythm games too much.
+
 ### Here is some of the stuff I use in my workflow etc.
 
 * IDE
