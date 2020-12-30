@@ -14,12 +14,13 @@ I like rythm games too much.
 * Things I use often:
    * macos - operating system
    * yabai - window manager
-   * terminal.app - default terminal
+   * terminal.app - terminal
+   * alacritty - terminal emulator (what i mainly use)
    * insomnia - api testing
    * magic keyboard - keyboard
    * magic mouse - mouse
    * spotify - music
-   * activity monitor - task manager
+   * activity monitor - task manager + tg pro
    * evernote - notetaking
    * discord - chat etc.
    * chrome - webbrowser
