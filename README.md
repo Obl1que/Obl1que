@@ -16,6 +16,7 @@ I like rythm games too much.
    * yabai - window manager
    * terminal.app - terminal
    * alacritty - terminal emulator (what i mainly use)
+   * oh-my-zsh - zsh config
    * insomnia - api testing
    * magic keyboard - keyboard
    * magic mouse - mouse
