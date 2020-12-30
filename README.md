@@ -10,7 +10,8 @@ I like rythm games too much.
    * lua
    * python
    * html
-   * node.js
+   * node.js ( a 'lil )
+   * rust ( soon )
 * Things I use often:
    * macos - operating system
    * yabai - window manager
