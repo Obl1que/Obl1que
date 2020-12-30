@@ -5,7 +5,7 @@ I like rythm games too much.
 ### Here is some of the stuff I use in my workflow etc.
 
 * IDE
-   * I use VSCode with the vim extensikin for most things, but use IntelliJ CE for Java. I write code in:
+   * I use VSCode with the vim extension for most things, but use IntelliJ CE for Java. I write code in:
    * java
    * lua
    * python
