@@ -9,9 +9,6 @@ I like rythm games too much.
    * java
    * lua
    * python
-   * html
-   * node.js ( a 'lil )
-   * rust ( soon )
 * Things I use often:
    * macos - operating system
    * yabai - window manager
@@ -33,7 +30,7 @@ I like rythm games too much.
 [![Obl1que's github stats](https://github-readme-stats.vercel.app/api?username=Obl1que)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on various projects.
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning more advanced html/javascript
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You can change the cursor blinking style in VSCode in settings -> text editor -> cursor
 -->
