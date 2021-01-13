@@ -22,7 +22,7 @@ I like rythm games too much.
    * activity monitor - task manager + tg pro
    * evernote - notetaking
    * discord - chat etc.
-   * chrome - webbrowser
+   * firefox - webbrowser
    * homebrew - package manager
    
 ### More about me
