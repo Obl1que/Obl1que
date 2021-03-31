@@ -1,4 +1,4 @@
-# Hey, I'm Obl1que! 👋 
+# Hey, I'm oblicue! 👋 
 
 zoinks scoob
 
@@ -19,5 +19,5 @@ zoinks scoob
    
 ### More about me
 
-[![Obl1que's github stats](https://github-readme-stats.vercel.app/api?username=Obl1que)](https://github.com/anuraghazra/github-readme-stats)
+[![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue)](https://github.com/anuraghazra/github-readme-stats)
 -->
