@@ -2,22 +2,21 @@
 
 zoinks scoob
 
-### Here is some of the stuff I use in my workflow etc.
+### stuff
 
 * Things I use often:
-   * macos - operating system
-   * terminal.app - terminal
+   * macos / windows / linux - operating system
+   * terminal.app / cmdlet / something random - terminal
    * insomnia - api testing
-   * magic keyboard - keyboard
-   * magic mouse - mouse
+   * msi vigor gk30 - keyboard
+   * kone aimo - mouse
    * spotify - music
-   * activity monitor - task manager + tg pro
-   * left - notetaking
+   * left / notepad - notetaking
    * discord - chat etc.
-   * firefox - webbrowser
+   * brave / firefox - webbrowser
    * homebrew - package manager
    
-### More about me
+### things
 
 [![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue)](https://github.com/anuraghazra/github-readme-stats)
 -->
