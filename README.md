@@ -4,24 +4,14 @@
 
 
 <div align="center">
- 
-```python
-  waddup
-```
-
-</div>
-
-
-
-<div align="center">
 
 
 </h1>
 
 ```python
-im cool
+waddup
 i know a bit of most languages, rust, node.js, html, python, java, browser js, php, lua etc.
-check out my repos for more
+check out my repositories for more
 ```
 
 
