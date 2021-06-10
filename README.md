@@ -24,5 +24,5 @@ check out my repositories for more
       <img src="https://badges.pufler.dev/repos/oblicue?style=for-the-badge&logo=elixir&logoColor=red&color=red&cacheSeconds=3600" alt="Repositories"/>
  </a>
 
-[![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
