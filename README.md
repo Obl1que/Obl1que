@@ -8,7 +8,7 @@
 
 </h1>
 
-```python
+```java
 waddup
 
 i do cool stuff on github sometimes maybe
