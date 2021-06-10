@@ -15,13 +15,11 @@ i do cool stuff on github sometimes maybe
 i know just a couple languages:
 lua
 nodejs
-rust
 python
 bash
 java
 php
 html
-a lil bit of markup
 thats about it
 
 check out my repos for more dumb stuff
