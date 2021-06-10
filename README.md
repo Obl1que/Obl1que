@@ -10,8 +10,21 @@
 
 ```python
 waddup
-i know a bit of most languages, rust, node.js, html, python, java, browser js, php, lua etc.
-check out my repositories for more
+
+i do cool stuff on github sometimes maybe
+i know just a couple languages:
+      lua
+      nodejs
+      rust
+      python
+      bash
+      java
+      php
+      html
+      a lil bit of markup
+thats about it
+
+check out my repos for more dumb stuff
 ```
 
 
