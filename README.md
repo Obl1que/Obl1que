@@ -25,4 +25,5 @@ const oblicue = {
 
 [![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oblicue&theme=dark&layout=compact)
+![trophies](https://github-profile-trophy.vercel.app/?username=oblicue&theme=darkhub&layout=compact&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
