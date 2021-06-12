@@ -30,10 +30,6 @@ check out my repos for more dumb stuff
 
 ### stuff
 
-![followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red)
-<a href="https://github.com/oblicue?tab=repositories">
-      <img src="https://badges.pufler.dev/repos/oblicue?style=for-the-badge&logo=elixir&logoColor=red&color=red&cacheSeconds=3600" alt="Repositories"/>
- </a>
-
-[![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oblicue&theme=dark&layout=compact)
 -->
