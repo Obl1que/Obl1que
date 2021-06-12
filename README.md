@@ -24,6 +24,6 @@ const oblicue = {
    <h1>stuff</h1>
 
 [![oblicue's github stats](https://github-readme-stats.vercel.app/api?username=oblicue&theme=dark&layout=compact)]
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oblicue&theme=dark&layout=compact) \n
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oblicue&theme=dark&layout=compact)<br>
 ![trophies](https://github-profile-trophy.vercel.app/?username=oblicue&theme=darkhub&layout=compact&no-bg=false&column=3&margin-w=15&margin-h=15)
 </div>
