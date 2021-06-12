@@ -10,7 +10,7 @@
 
 ```javascript
 const oblicue = {
-    name: 'joseph',
+    name: 'joseph'
     code: ['java', 'php', 'python', 'html', 'lua', 'javascript'],
     gender: 'male',
     tools: ['vscode', 'eclipse', 'cmder'], // for windows
