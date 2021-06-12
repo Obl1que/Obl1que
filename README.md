@@ -8,21 +8,14 @@
 
 </h1>
 
-```java
-waddup
-
-i do cool stuff on github sometimes maybe
-i know just a couple languages:
-lua
-nodejs
-python
-bash
-java
-php
-html
-thats about it
-
-check out my repos for more dumb stuff
+```javascript
+const oblicue = {
+    name: 'joseph',
+    code: ['java', 'php', 'python', 'html', 'lua', 'javascript'],
+    gender: 'male',
+    tools: ['vscode', 'eclipse', 'cmder'], // for windows
+    projects: ['octostock', 'babyhack'] // babyhack is not public yet
+}
 ```
 
 
