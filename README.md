@@ -13,7 +13,7 @@ const oblicue = {
     name: 'joseph',
     code: ['java', 'php', 'python', 'html', 'lua', 'javascript'],
     gender: 'male',
-    tools: ['vscode', 'eclipse', 'cmder'], // for windows
+    tools: ['vscode', 'eclipse', 'cmder', 'terminator'], // cmder for windows, terminator for linux
     operatingsys: ['arch', 'macos', 'windows'], // mac is mainly at schoool, i mostly use arch linux and windows at home
     projects: ['octostock', 'babyhack']
 }
